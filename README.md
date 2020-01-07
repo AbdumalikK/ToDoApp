@@ -1,2 +1,2 @@
 # to-do-list-app
- to do list appllication is wrote with Html, Css, Bootstrap, JavaScript , jQuery
+To Do List Appllication is wrote with Html, Bootstrap, jQuery
